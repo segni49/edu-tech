@@ -1,0 +1,25 @@
+Eco Tips - Sustainable Living Made Easy
+
+Short description:
+Discover practical sustainability tips to reduce your environmental impact. Offline-first, privacy-focused, and accessible.
+
+Full description:
+Eco Tips is your go-to app for curated sustainability advice across energy, food, waste, water, transport, home, and community categories. Browse tips, mark favorites locally, and learn why each action matters. Designed with privacy and accessibility in mind, Eco Tips works fully offline and never collects personal data. Opt-in crash reporting ensures app stability without compromising your privacy.
+
+Key features:
+- Offline-first: no internet required to access tips
+- Local favorites storage with no accounts or PII
+- Category filters for easy browsing
+- Detailed tip views with clear actions and impact
+- Localization support for English and Amharic
+- Opt-in crash reporting with no user data collected
+
+Permissions:
+- No special permissions required
+
+Privacy:
+- No personal data collected or shared
+- Optional crash reporting only with user consent
+
+Support:
+Contact support@ecotips.example for help or feedback.
