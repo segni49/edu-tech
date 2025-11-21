@@ -1,0 +1,25 @@
+Eco Tips Privacy Policy
+
+Last updated: November 21, 2025
+
+Eco Tips is an offline-first application designed to provide curated sustainability tips without collecting any personal information.
+
+1. No Personal Data Collection
+Eco Tips does not collect, store, or transmit any personally identifiable information (PII) from users.
+
+2. Offline-First
+All content is bundled within the app. No network connection is required to use the app's core features.
+
+3. Optional Crash Reporting
+Users may opt-in to enable crash reporting. This feature only collects technical crash data and does not include any user content or personal data.
+
+4. Permissions
+The app requests no permissions beyond those essential for operation. No access to camera, location, or storage is required.
+
+5. Data Security
+All data is stored locally on the user's device. No data is shared externally.
+
+6. Updates
+Future content updates will be signed and verified to ensure integrity and authenticity.
+
+For questions or concerns, please contact support@ecotips.example
