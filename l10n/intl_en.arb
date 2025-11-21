@@ -1,0 +1,21 @@
+{
+  "appTitle": "Eco Tips",
+  "categoryAll": "All",
+  "categoryEnergy": "Energy",
+  "categoryFood": "Food",
+  "categoryWaste": "Waste",
+  "categoryWater": "Water",
+  "categoryTransport": "Transport",
+  "categoryHome": "Home",
+  "categoryCommunity": "Community",
+  "favorites": "Favorites",
+  "addToFavorites": "Add to favorites",
+  "removeFromFavorites": "Remove from favorites",
+  "tipDetailAction": "Action",
+  "tipDetailImpact": "Why it matters",
+  "noTipsFound": "No tips found for this category.",
+  "loading": "Loading...",
+  "errorLoadingTips": "Error loading tips: {error}",
+  "searchHint": "Search tips by title",
+  "favoritesFilter": "Favorites"
+}

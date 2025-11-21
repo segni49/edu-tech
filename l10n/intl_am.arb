@@ -1,0 +1,21 @@
+{
+  "appTitle": "ኢኮ ጥቅሞች",
+  "categoryAll": "ሁሉም",
+  "categoryEnergy": "ኃይል",
+  "categoryFood": "ምግብ",
+  "categoryWaste": "ቆሻሻ",
+  "categoryWater": "ውሃ",
+  "categoryTransport": "ትራንስፖርት",
+  "categoryHome": "ቤት",
+  "categoryCommunity": "ማህበረሰብ",
+  "favorites": "ተወዳጆች",
+  "addToFavorites": "ወደ ተወዳጆች ጨምር",
+  "removeFromFavorites": "ከተወዳጆች አስወግድ",
+  "tipDetailAction": "እርምጃ",
+  "tipDetailImpact": "ለምን እንደሚጠቅም",
+  "noTipsFound": "ለዚህ ምድብ ምንም ጥቅሞች አልተገኙም።",
+  "loading": "በመጫን ላይ...",
+  "errorLoadingTips": "ስህተት በምንጭ ላይ: {error}",
+  "searchHint": "በርእስ ላይ ፈልግ",
+  "favoritesFilter": "ተወዳጆች"
+}

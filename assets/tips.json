@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tip1",
+    "title": "Reduce energy consumption by using LED bulbs",
+    "action": "Replace all incandescent bulbs in your home with energy-efficient LED bulbs to save electricity.",
+    "impact": "LED bulbs use up to 80% less energy and last 25 times longer than incandescent bulbs.",
+    "category": "energy"
+  },
+  {
+    "id": "tip2",
+    "title": "Compost your food waste",
+    "action": "Start a compost bin for your kitchen scraps and garden waste to reduce landfill waste.",
+    "impact": "Composting reduces methane emissions from landfills and enriches soil naturally.",
+    "category": "waste"
+  },
+  {
+    "id": "tip3",
+    "title": "Use public transport or carpool",
+    "action": "Opt for public transportation, biking, or carpooling to reduce your carbon footprint.",
+    "impact": "Reducing single-occupancy vehicle trips lowers greenhouse gas emissions.",
+    "category": "transport"
+  },
+  {
+    "id": "tip4",
+    "title": "Save water by fixing leaks",
+    "action": "Regularly check and repair dripping taps and leaking pipes to conserve water.",
+    "impact": "Fixing leaks can save hundreds of gallons of water per year.",
+    "category": "water"
+  },
+  {
+    "id": "tip5",
+    "title": "Eat seasonal and local produce",
+    "action": "Choose fruits and vegetables that are in season and grown locally to reduce food miles.",
+    "impact": "Eating local reduces transportation emissions and supports local farmers.",
+    "category": "food"
+  },
+  {
+    "id": "tip6",
+    "title": "Reduce plastic use",
+    "action": "Avoid single-use plastics by using reusable bags, bottles, and containers.",
+    "impact": "Cutting down plastic waste helps protect oceans and wildlife.",
+    "category": "waste"
+  },
+  {
+    "id": "tip7",
+    "title": "Install a programmable thermostat",
+    "action": "Use a programmable thermostat to optimize heating and cooling schedules.",
+    "impact": "Efficient temperature control reduces energy consumption and bills.",
+    "category": "home"
+  },
+  {
+    "id": "tip8",
+    "title": "Support community clean-up events",
+    "action": "Participate in or organize local clean-up drives to keep your neighborhood clean.",
+    "impact": "Community efforts improve local environment and foster social bonds.",
+    "category": "community"
+  },
+  {
+    "id": "tip9",
+    "title": "Reduce meat consumption",
+    "action": "Incorporate more plant-based meals into your diet to lower environmental impact.",
+    "impact": "Reducing meat intake decreases greenhouse gas emissions and water usage.",
+    "category": "food"
+  },
+  {
+    "id": "tip10",
+    "title": "Use rainwater harvesting",
+    "action": "Collect rainwater for gardening and non-potable uses to conserve water.",
+    "impact": "Rainwater harvesting reduces demand on municipal water supplies.",
+    "category": "water"
+  }
+]

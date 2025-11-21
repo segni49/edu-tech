@@ -1,0 +1,32 @@
+name: eco_tips
+
+description: A Flutter app for curated sustainability tips.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.3.6
+  shared_preferences: ^2.1.1
+  intl: ^0.18.1
+  sentry_flutter: ^7.13.0
+  cupertino_icons: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  mocktail: ^0.3.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/tips.json
+  generate: true
